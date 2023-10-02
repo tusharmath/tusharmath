@@ -8,7 +8,7 @@ Hello there! I'm Tushar, the CEO of [Tailcall Inc](https://tailcall.run/). Welco
 [![Discord](https://img.shields.io/badge/Discord-tusharmath%235394-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/358987818825154560)
 
 ## 🚀 About Me
-I'm the chief executive officer at [Tailcall Inc](https://tailcall.run/), a company dedicated to leveraging the power of technology to drive transformative solutions. My interests lie in distributed systems, performance engineering, and functional programming. Here on GitHub, you'll find projects I'm working on and my contributions to the open-source community.
+I'm the chief executive officer at [Tailcall Inc](https://tailcall.run/), a company dedicated to making working with **GraphQL** easier and productive. My interests lie in distributed systems, performance engineering, and functional programming. Here on GitHub, you'll find projects I'm working on and my contributions to the open-source community.
 
 ## 🛠 Technologies and Tools
 - **Languages:** Rust, TypeScript, JavaScript, Scala
